@@ -1,5 +1,6 @@
 contoh jenis olahraga:
 - contoh 1
 - tambah contoh 1
-- tambah contoh 2
 - contoh 2
+- contoh 3
+- contoh 4
