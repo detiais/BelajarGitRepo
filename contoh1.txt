@@ -5,4 +5,6 @@ contoh jenis olahraga:
   - contoh 2.1
   - contoh 2.2
 - contoh 3
+  - contoh 3.4
+  - contoh 3.5
 - contoh 4
